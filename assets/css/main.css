@@ -1,0 +1,155 @@
+.title {
+	display: flex;
+	justify-content: center;
+	color: black;
+	margin-top: 100px;
+	margin-bottom: 500px;
+	font-family: sans-serif;
+	font-size: 70px;
+}
+
+.teapot {
+	position: absolute;
+	top: 175px;
+	left: 0%;
+}
+
+.paragraph1 {
+	text-align: right;
+	color: black;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	margin-right: 20px;
+	font-family: serif;
+	font-size: 30px;
+}
+
+.wintertea {
+	position: absolute;
+	right: 0%;
+}
+
+.biscuitsstatic {
+	position: absolute;
+	background: white;
+}
+
+.biscuitsstatic:hover {
+	opacity: 0;
+}
+
+.milkstatic {
+	position: absolute;
+	background: white;
+}
+
+.milkstatic:hover {
+	opacity: 0;
+}
+
+.paragraph2 {
+	text-align: left color:black;
+	margin-bottom: 70px;
+	margin-left: 20px;
+	font-family: serif;
+	font-size: 30px;
+}
+
+.springtea {
+	position: absolute;
+	right: 0%;
+}
+
+.lemonstatic {
+	position: absolute;
+	background: white;
+}
+
+.lemonstatic:hover {
+	opacity: 0;
+}
+
+.blackberriesstatic {
+	position: absolute;
+	background: white;
+}
+
+.blackberriesstatic:hover {
+	opacity: 0;
+}
+
+.paragraph3 {
+	text-align: right;
+	color: black;
+	margin-top: 70px;
+	margin-bottom: 50px;
+	margin-right: 20px;
+	font-family: serif;
+	font-size: 30px;
+}
+
+.summertea {
+	position: absolute;
+	right: 0%;
+}
+
+.strawberriesstatic {
+	position: absolute;
+	background: white;
+}
+
+.strawberriesstatic:hover {
+	opacity: 0;
+}
+
+.icecubesstatic {
+	position: absolute;
+	background: white;
+}
+
+.icecubesstatic:hover {
+	opacity: 0;
+}
+
+.paragraph4 {
+	text-align: left;
+	color: black;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+	font-family: serif;
+	font-size: 30px;
+}
+
+.falltea {
+	position: absolute;
+	right: 0%;
+}
+
+.piestatic {
+	position: absolute;
+	background: white;
+}
+
+.piestatic:hover {
+	opacity: 0;
+}
+
+.honeystatic {
+	position: absolute;
+	background: white;
+}
+
+.honeystatic:hover {
+	opacity: 0;
+}
+
+.paragraph5 {
+	text-align: right;
+	color: black;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: 20px;
+	font-family: serif;
+	font-size: 30px;
+}
